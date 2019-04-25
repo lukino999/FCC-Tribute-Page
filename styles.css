@@ -1,0 +1,36 @@
+#main-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 5px 10px;
+    background: #DBDBDB;
+    font-family: 'Quicksand', sans-serif;
+    color: #262626;
+}
+
+
+#title-container {
+    background: #D1D1D1;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    font-size: 300%;
+}
+
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+
+.textJustify {
+    text-align: justify;
+}
